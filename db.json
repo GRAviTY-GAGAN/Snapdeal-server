@@ -10,7 +10,7 @@
             "isCompleted":false
         }
     ],
-    "accounts": [
+    "products": [
             {
                 "id":1,
                 "name":"xyz",
